@@ -1,1 +1,1 @@
-Muutamat omat projektit, jotka on tehty vapaa-ajalla harrastusmielessä.
+Couple coding projects that were made in my free time as a hobby.
